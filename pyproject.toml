@@ -30,6 +30,7 @@ role-lesson-12 = "role_assignment.lessons.lesson12_quiz_maker_role:main"
 role-lesson-13 = "role_assignment.lessons.lesson13_debate_roles:main"
 role-lesson-14 = "role_assignment.lessons.lesson14_rubric_grader:main"
 role-lesson-15 = "role_assignment.lessons.lesson15_mini_workflow:main"
+role-lesson-16 = "role_assignment.lessons.lesson16_stock_investment:main"
 
 [tool.uv]
 package = true
