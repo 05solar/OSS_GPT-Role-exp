@@ -1,5 +1,7 @@
 # GPT Role Assignment Teaching Pack
 
+![ChatBot 실행 화면](docs/screenshot.png)
+
 학생들이 수업 시간에 파일 하나를 열고 라인 단위로 설명하기 쉽게,
 각 레슨은 **파일 1개 완결형**으로 구성되어 있습니다.
 
